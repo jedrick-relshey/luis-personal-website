@@ -11,7 +11,7 @@ This is the personal website of Luis Angelo C. Miclat. It showcases his interest
 - Home page with introduction and welcome message
 - About page section to show hobbies and interests
 - Gallery section to showcase A lot of Images
-- Blog page show the journals and achievement
+- Blog page show the journals and achievement 
 
 ## Installation / How to Run
 1. Clone the repository:
